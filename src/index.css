@@ -3,3 +3,18 @@ body {
   padding: 0;
   margin: 0;
 }
+
+@font-face {
+  font-family: BebasNeue;
+  src: url(../src/Assets/Fonts/BebasNeue-Regular.ttf);
+}
+.heading {
+  font-family: BebasNeue;
+}
+@font-face {
+  font-family: Oswald;
+  src: url(../src/Assets/Fonts/Oswald-VariableFont_wght.ttf);
+}
+.secHeading {
+  font-family: Oswald;
+}
